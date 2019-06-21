@@ -8,6 +8,6 @@ pipeline {
     }
   }
   tools {
-    maven 'Maven'
+    maven 'M3'
   }
 }
